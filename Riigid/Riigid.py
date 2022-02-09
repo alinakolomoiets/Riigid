@@ -49,7 +49,7 @@ def tõlkimine(l1:list,l2:list):
 		print("Слова нет")
 
 def uus_sõna(f:str,rida:str,l:list)->list:
-	"""Одно слово или предложение (rida) мы сохраняем в файл
+	"""
     :param str f : имя файла 
     :param str rida : добавить слово
     """
